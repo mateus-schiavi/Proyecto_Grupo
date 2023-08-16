@@ -1,0 +1,16 @@
+Grupo 2.
+
+Diego Fernado Freire Garcia
+Pool Jonathan Ramos Ramos
+Mateus Schiavi
+Jhoan Sebastian Herrera Garcia
+Alonso Antonio Guerrero Montoya
+
+Objetivo de la app:
+
+La aplicacion tiene como objetivo, ayudar a las personas a recibir consejos de los lideres de la iglesia,
+que han discursado en las Conferencias Generales, los consejos varian de acuerdo al  estado emocional
+del usuario.
+
+Deacuerdo a lo que elija el usuario recibira un consejo especifico y les aparecera su imagen del lider que 
+dio el discurso.

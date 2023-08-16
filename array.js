@@ -1,4 +1,4 @@
-import { alegriaArray, tristeArray, enojonArray, miedoArray } from "./main.js";
+import { alegriaArray, tristeArray, enojonArray, miedoArray } from "./data.js";
 
 const botonAlegria = document.querySelector("#alegria-button");
 const botonTristeza = document.querySelector("#tristeza-button");
@@ -58,4 +58,3 @@ const enlacesContainer = document.getElementById('enlaces');
   })
 
 */
-
